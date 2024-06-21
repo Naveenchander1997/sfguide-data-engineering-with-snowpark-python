@@ -2,10 +2,9 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = https://cp96304.us-east4.gcp.snowflakecomputing.com
-user = murnav
-password = N@veen20211
-role = ACCOUNTADMIN
-warehouse = COMPUTE_WH
-database = PC_DBT_DB
-schema = DBT_NMURUGESAN
+account = "https://cp96304.us-east4.gcp.snowflakecomputing.com"
+user = "murnav"
+password = "N@veen2021"
+role = "HOL_ROLE"
+warehouse = "HOL_WH"
+database = "HOL_DB"
