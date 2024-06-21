@@ -2,7 +2,7 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = ECHKCWI.YQ13705
+account = https://cp96304.us-east4.gcp.snowflakecomputing.com
 user = murnav
 password = N@veen20211
 role = ACCOUNTADMIN
